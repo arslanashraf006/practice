@@ -9,7 +9,7 @@ void main() {
       primarySwatch: Colors.green,
       accentColor: Colors.lightGreenAccent,
       // Set background color
-      backgroundColor: Colors.black12,
+      backgroundColor: Colors.black,
     ),
   ));
 }
